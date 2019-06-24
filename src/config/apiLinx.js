@@ -1,0 +1,1 @@
+exports = 'https://hfllinxintegracaogiftwebapi-hom.azurewebsites.net/LinxServiceApi/FidelidadeService/';

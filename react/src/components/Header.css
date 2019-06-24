@@ -1,0 +1,26 @@
+headear#main-header{
+    background: #fff;
+    border-bottom: 1px solid #DDD;
+    height: 50px;
+}
+
+header#main-header .header-content{
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+    height: 50px;
+    padding: 0 200px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+header#main-header .header-content i{
+    margin-left: 10px;
+    float: right;
+}
+
+
+/* header#main-header .header-content h2{
+     color: #cccccc; 
+} */
